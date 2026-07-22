@@ -1,0 +1,4 @@
+interface:
+  display_name: "远航收藏夹公众号文章"
+  short_description: "按远航收藏夹风格完成公众号选题、写稿、排版、摘要和封面。"
+  default_prompt: "按远航收藏夹的公众号流程，把这个选题做成可发布的公众号文章。"
